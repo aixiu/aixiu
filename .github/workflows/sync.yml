@@ -1,0 +1,30 @@
+# .github/workflows/sync.yml
+name: Sync Fork
+
+on:
+  push: # push 时触发, 主要是为了测试配置有没有问题
+  schedule:
+    - cron: '10 0,8 * * *' # 每天0时和8时 第10分触发, 对于一些更新不那么频繁的项目可以设置为每天一次, 低碳一点
+  workflow_dispatch: # on button click
+  
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🍀 sync gh-pages
+        uses: AbdulmelikKalkan/sync-fork-upstream@v1.3
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # 这您必须为用户提供个人访问令牌。确保令牌具有“public_repo”权限，并将令牌存储在存储库机密中。
+        with:          
+          owner: aixiu # 需要同步的存储库账户所有者 user
+          repo: reference  # 需要同步的存储库名称
+          branch: gh-pages # 需要同步到本项目的目标分支
+
+      - name: 🌿 sync main
+        uses: AbdulmelikKalkan/sync-fork-upstream@v1.3
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # 这您必须为用户提供个人访问令牌。确保令牌具有“public_repo”权限，并将令牌存储在存储库机密中。
+        with:          
+          owner: aixiu # 需要同步的存储库账户所有者 user账户所有者 user
+          repo: reference # 需要同步的存储库名称
+          branch: main # 需要同步到本项目的目标分支
