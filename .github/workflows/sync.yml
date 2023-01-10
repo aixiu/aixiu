@@ -2,7 +2,7 @@
 name: Sync Fork 同步reference上游库
 
 on:
-  push: # push 时触发, 主要是为了测试配置有没有问题
+  # push: # push 时触发, 主要是为了测试配置有没有问题
   schedule:
     - cron: '10 0,8 * * *' # 每天0时和8时 第10分触发, 对于一些更新不那么频繁的项目可以设置为每天一次, 低碳一点
   workflow_dispatch: # on button click
