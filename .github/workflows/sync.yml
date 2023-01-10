@@ -1,5 +1,5 @@
 # .github/workflows/sync.yml
-name: Sync Fork
+name: Sync Fork 同步reference上游库
 
 on:
   push: # push 时触发, 主要是为了测试配置有没有问题
