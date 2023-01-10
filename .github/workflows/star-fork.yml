@@ -19,7 +19,6 @@ jobs:
     steps:
       - name: This repo has x stars y forks
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          # token: ${{ secrets.ACCESS_TOKEN }}
+        with:          
+          token: ${{ secrets.ACCESS_TOKEN }}
           template: "A profile README with <starCount> stars and <forkCount> forks"
