@@ -10,7 +10,7 @@ on:
     types:
       - started
   schedule:
-    - cron: '20 * * * *'
+    - cron: '0 */3 * * *'  # 三小时一次
   workflow_dispatch:
 
 jobs:
