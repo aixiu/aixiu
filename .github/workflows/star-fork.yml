@@ -10,7 +10,7 @@ on:
     types:
       - started
   schedule:
-    - cron: '0 */8 * * *'  # 每八小时执行一次    
+    - cron: '15 */8 * * *'  # 每八小时执行一次    
   workflow_dispatch: # 手动触发工作流
 
 jobs:
