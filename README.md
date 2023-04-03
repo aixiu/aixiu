@@ -17,6 +17,12 @@
 - [Oracle_Cloud_DD_windows_other](http://blog.ynxiu.com/aixiu/9ec48eaf.html)
 <!-- BLOG-POST-LIST:END -->
 
+### Latest StackOveflow activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+</table>
+
 | Project | Stars | Forks | Remark |
 | :-----: | :---: | :---: | :----: |
 | 暂无 | 暂无 | 暂无 | 暂无 |
