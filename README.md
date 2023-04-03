@@ -12,13 +12,7 @@
 #### :four_leaf_clover: Latest Blog Posts :four_leaf_clover: [@aixiu](https://github.com/aixiu)
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START -->
-- [红米AX6S-解锁SSH刷openwrt教程](http://blog.ynxiu.com/aixiu/22c58336.html)
-- [全自动一键网络重装脚本（DD脚本）](http://blog.ynxiu.com/aixiu/86927d5.html)
-- [Oracle控制台更改密码、邮箱、租户名等教程](http://blog.ynxiu.com/aixiu/759b51dc.html)
-- [VPS/服务器常用脚本合集](http://blog.ynxiu.com/aixiu/cc0ad38f.html)
-- [Oracle_Cloud_DD_windows_other](http://blog.ynxiu.com/aixiu/9ec48eaf.html)
-<!-- BLOG-POST-LIST:END -->
+  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
 </table>
 
 | Project | Stars | Forks | Remark |
