@@ -16,5 +16,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
+          comment_tag_name: "STACKOVERFLOW"
           feed_list: "http://blog.ynxiu.com/atom.xml,https://feed.cnblogs.com/blog/u/308165/rss/"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
           max_post_count: 5
