@@ -1,3 +1,7 @@
+[![](https://img.shields.io/badge/blog-@aixiu-red.svg?style=flat&logo=hexo&logoColor=white&color=brightgreen)](http://blog.ynxiu.com)
+[![](https://img.shields.io/badge/-python-3776AB.svg?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org)
+[![](https://img.shields.io/badge/-node.js-43853d.svg?style=flat&logo=node.js&logoColor=white&color=43853d)](https://nodejs.org/zh-cn)
+
 > 精于心，简于形
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aixiu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&locale=cn"/>
