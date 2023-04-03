@@ -17,13 +17,10 @@
 - [Oracle_Cloud_DD_windows_other](http://blog.ynxiu.com/aixiu/9ec48eaf.html)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest StackOveflow activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
-| Title | Link |
-| :-----: | :---: |
-| <!-- BLOG-POST-LIST:START --> | <!-- BLOG-POST-LIST:END --> |
+### Latest StackOveflow activity of [@aixiu](https://github.com/aixiu)
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 </table>
 
 | Project | Stars | Forks | Remark |
