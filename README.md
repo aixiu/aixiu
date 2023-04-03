@@ -5,7 +5,7 @@
 ### :frog: 被风吹过的夏天 :frog:
 
 - :mushroom: 我们总是把最光鲜亮丽的一面展现给世人，把狼狈不堪的自己收藏在无人的角落。
-- :rainbow: 想要了解更多,请关注我的博客 :house: [量子广告](http://blog.ynxiu.com/)
+- :rainbow: 想要了解更多,请关注我的博客 :house: [量子](http://blog.ynxiu.com/)
 
 #### :four_leaf_clover: Latest Blog Posts :four_leaf_clover: [@aixiu](https://github.com/aixiu)
 <table>
