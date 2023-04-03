@@ -14,7 +14,7 @@
 #### :four_leaf_clover: Latest Blog Posts :four_leaf_clover: [@aixiu](https://github.com/aixiu)
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>红米AX6S-解锁SSH刷openwrt教程</td><td>http://blog.ynxiu.com/aixiu/22c58336.html</td></tr><tr><td>全自动一键网络重装脚本（DD脚本）</td><td>http://blog.ynxiu.com/aixiu/86927d5.html</td></tr><tr><td>Oracle控制台更改密码、邮箱、租户名等教程</td><td>http://blog.ynxiu.com/aixiu/759b51dc.html</td></tr><tr><td>VPS/服务器常用脚本合集</td><td>http://blog.ynxiu.com/aixiu/cc0ad38f.html</td></tr><tr><td>Oracle_Cloud_DD_windows_other</td><td>http://blog.ynxiu.com/aixiu/9ec48eaf.html</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>网站徽章shields制作教程</td><td>http://blog.ynxiu.com/aixiu/6bd3a88c.html</td></tr><tr><td>红米AX6S-解锁SSH刷openwrt教程</td><td>http://blog.ynxiu.com/aixiu/22c58336.html</td></tr><tr><td>全自动一键网络重装脚本（DD脚本）</td><td>http://blog.ynxiu.com/aixiu/86927d5.html</td></tr><tr><td>Oracle控制台更改密码、邮箱、租户名等教程</td><td>http://blog.ynxiu.com/aixiu/759b51dc.html</td></tr><tr><td>VPS/服务器常用脚本合集</td><td>http://blog.ynxiu.com/aixiu/cc0ad38f.html</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 | Project | Stars | Forks | Remark |
