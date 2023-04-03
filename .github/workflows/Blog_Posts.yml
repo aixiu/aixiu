@@ -16,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://feed.cnblogs.com/blog/u/308165/rss/"
+          feed_list: "http://blog.ynxiu.com/atom.xml"
