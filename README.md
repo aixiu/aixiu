@@ -1,3 +1,4 @@
+[![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aixiu&right_color=red)](https://github.com/aixiu)
 [![](https://img.shields.io/badge/blog-@aixiu-red.svg?style=flat&logo=hexo&logoColor=white&color=brightgreen)](http://blog.ynxiu.com)
 [![](https://img.shields.io/badge/-python-3776AB.svg?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org)
 [![](https://img.shields.io/badge/-node.js-43853d.svg?style=flat&logo=node.js&logoColor=white&color=43853d)](https://nodejs.org/zh-cn)
