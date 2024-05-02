@@ -15,7 +15,7 @@
 #### :four_leaf_clover: Latest Blog Posts :four_leaf_clover: [@aixiu](https://github.com/aixiu)
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>部署aliyundrive-qr-login记录</td><td>http://blog.ynxiu.com/aixiu/738535c9.html</td></tr><tr><td>反编译pyinstaller生成exe的工具</td><td>http://blog.ynxiu.com/aixiu/6bc2cfae.html</td></tr><tr><td>网站徽章shields制作教程</td><td>http://blog.ynxiu.com/aixiu/6bd3a88c.html</td></tr><tr><td>红米AX6S-解锁SSH刷openwrt教程</td><td>http://blog.ynxiu.com/aixiu/22c58336.html</td></tr><tr><td>全自动一键网络重装脚本（DD脚本）</td><td>http://blog.ynxiu.com/aixiu/86927d5.html</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>Serv00搭建各种服务</td><td>http://blog.ynxiu.com/aixiu/72e96a30.html</td></tr><tr><td>部署aliyundrive-qr-login记录</td><td>http://blog.ynxiu.com/aixiu/738535c9.html</td></tr><tr><td>反编译pyinstaller生成exe的工具</td><td>http://blog.ynxiu.com/aixiu/6bc2cfae.html</td></tr><tr><td>网站徽章shields制作教程</td><td>http://blog.ynxiu.com/aixiu/6bd3a88c.html</td></tr><tr><td>红米AX6S-解锁SSH刷openwrt教程</td><td>http://blog.ynxiu.com/aixiu/22c58336.html</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 | Project | Stars | Forks | Remark |
